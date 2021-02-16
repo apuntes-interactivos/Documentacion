@@ -1,2 +1,2 @@
-# Documentacion
+# Documentación
 Documentación general
